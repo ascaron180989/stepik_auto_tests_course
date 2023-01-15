@@ -31,4 +31,3 @@ with webdriver.Chrome() as driver_chrome:
     button.click()
 
     sleep(10)
-
